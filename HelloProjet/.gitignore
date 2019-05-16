@@ -1,4 +1,4 @@
 #忽略out.idea及其子文件
 out
 .idea
-*.iml
+.iml
